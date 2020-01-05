@@ -14,12 +14,10 @@ module.exports = {
     access_token: process.env.TWITTER_ACCESS_TOKEN,
     access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
   },
+  query: '#ProjectEuler100, #projecteuler100, #projectEuler100',
+  result_type: 'recent',
+  lang: 'en',
   twitterConfig: {
-    queryString: process.env.QUERY_STRING,
-    username: process.env.TWITTER_USERNAME,
-    blacklist: process.env.USERNAME_BLACKLIST,
-    tweetTimeOutMin: process.env.TWEET_TIME_OUT_MIN,
-    tweetTimeOutMax: process.env.TWEET_TIME_OUT_MAX,
-    tweetQueueTime: 1000 * 60 * process.env.TWEET_QUEUE_TIME
+    queryString: process.env.QUERY_STRING
   }
 }
