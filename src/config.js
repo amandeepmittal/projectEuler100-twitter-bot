@@ -17,7 +17,4 @@ module.exports = {
   query: '#ProjectEuler100, #projecteuler100, #projectEuler100',
   result_type: 'recent',
   lang: 'en',
-  twitterConfig: {
-    queryString: process.env.QUERY_STRING
-  }
 }
