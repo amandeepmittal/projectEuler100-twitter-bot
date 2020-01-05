@@ -29,11 +29,7 @@
   },
   "dependencies": {
     "dotenv": "8.2.0",
-    "fs-extra": "8.1.0",
-    "moment": "2.24.0",
-    "twit": "2.2.11",
-    "unified": "^8.4.2",
-    "unique-random-array": "2.0.0"
+    "twit": "2.2.11"
   },
   "repository": {
     "type": "git",
