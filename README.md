@@ -18,7 +18,8 @@ to engage on Twitter.</strong>
 ## API
 
 - It encourages developers who participate in #ProjectEuler100 challenge hosted by [@freeCodeCamp](https://twitter.com/freeCodeCamp)
-- The API consists of "favorite" and "retweet" a tweet on an interval of every 30 minutes
+- The API consists of "favorite" and "retweet" a tweet at an interval of every 30 minutes
+
 ---
 
 ## Contributing
@@ -31,7 +32,7 @@ changes.
 
 You can help by:
 
-* Solving existing issues
+- Solving existing issues
 
 For any of the above, please create an issue so that it can be addressed. New to GitHub issues? You can familiarize yourself with
 them using GitHub's
@@ -39,8 +40,8 @@ them using GitHub's
 
 ## How to setup the bot?
 
-* You will need your _own_ Twitter account for testing, since the bot tweets from this account. Generate your Twitter API keys by [creating a new app](https://apps.twitter.com/app/new).
-* Create an `.env` file and add in your API keys and Twitter handle, like so:
+- You will need your _own_ Twitter account for testing, since the bot tweets from this account. Generate your Twitter API keys by [creating a new app](https://apps.twitter.com/app/new).
+- Create an `.env` file and add in your API keys and Twitter handle, like so:
 
 ```
 TWITTER_CONSUMER_KEY=xxxxxxxxxxxxxxxxxxxxdMhxg
@@ -48,6 +49,7 @@ TWITTER_CONSUMER_SECRET=xxxxxxxxxxxxxxxxxxxxkFNNj1H107PFv1mvWwEM6CZH0fjymV
 TWITTER_ACCESS_TOKEN=xxxxxxxxx-xxxxxxxxxxxxxxxxxxxxecKpi90bFhdsGG2N7iII
 TWITTER_ACCESS_TOKEN_SECRET=xxxxxxxxxxxxxxxxxxxxZAU8wNKAPU8Qz2c0PhOo43cGO
 ```
+
 ---
 
 ## License
