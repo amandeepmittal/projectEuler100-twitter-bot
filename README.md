@@ -17,7 +17,7 @@ to engage on Twitter.</strong>
 
 ## API
 
-- It encourages develpors who participate in #ProjectEuler100 challenge hosted by [@freeCodeCamp](https://twitter.com/freeCodeCamp)
+- It encourages developers who participate in #ProjectEuler100 challenge hosted by [@freeCodeCamp](https://twitter.com/freeCodeCamp)
 - The API consists of "favorite" and "retweet" a tweet on an interval of every 30 minutes
 ---
 
